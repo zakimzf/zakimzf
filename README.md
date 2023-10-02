@@ -7,5 +7,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&weight=800&pause=1000&color=020802&width=435&lines=Freelance+Web+Developer)](https://git.io/typing-svg)
 
 
- [![Contra Badge](https://contra.com/static/embed/media/hiremeoncontra-light.png)](https://on.contra.com/gfjRmg)
+ [![Contra Badge](https://github.com/zakimzf/zakimzf/blob/main/hiremeoncontra-light1.png)](https://on.contra.com/gfjRmg)
 
