@@ -1,6 +1,6 @@
 # Freelance  Developer
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/zakimzf)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/zakimzf)
 
 
 
