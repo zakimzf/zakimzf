@@ -1,17 +1,13 @@
-# Freelance  Developer
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&weight=800&pause=1000&color=020802&width=435&lines=Freelance+Web+Developer)](https://git.io/typing-svg)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/zakimzf)
 
 
+[![](https://img.shields.io/badge/-Gmail-%23181717?style=flat-square&logo=gmail)](https://github.com/zakimzf)
+[![](https://img.shields.io/badge/-Telegram-%23181717?style=flat-square&logo=telegram)](https://telegram/zakimzf)
+[![](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/Faiz4Md)
+[![](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-z-6146a3111/)](https://www.linkedin.com/in/mohammed-z-6146a3111/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&weight=800&pause=1000&color=020802&width=435&lines=Freelance+Web+Developer)](https://git.io/typing-svg)
-
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Faiz4Md) 
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://twitter.com/@Faiz4Md) 
-[![Linkedin](https://img.shields.io/badge/Linkedin-%231DA1F2.svg?logo=Linkedin&logoColor=white)](https://twitter.com/@Faiz4Md) 
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://twitter.com/@Faiz4Md) 
-[![Gmail](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=gmail&logoColor=red)](https://twitter.com/@Faiz4Md) 
 
  [![Contra Badge](https://github.com/zakimzf/zakimzf/blob/main/hiremeoncontra-light1.png)](https://on.contra.com/gfjRmg)
 
