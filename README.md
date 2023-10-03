@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&weight=800&pause=1000&color=020802&width=435&lines=Freelance+Web+Developer)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&weight=800&pause=1000&color=020802&width=435&lines=Freelance+Web+Developer)](https://git.io/typing-svg) 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/zakimzf)
 
