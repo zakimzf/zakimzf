@@ -12,7 +12,7 @@
 [![](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-z-6146a3111/)](https://www.linkedin.com/in/mohammed-z-6146a3111/)
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=eixvlqdj5qtm1tphi12vbjwwd&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=eixvlqdj5qtm1tphi12vbjwwd&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/zakimzf)
 
 
 <div align="left">
