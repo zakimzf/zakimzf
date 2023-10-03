@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&weight=800&pause=1000&color=020802&width=435&lines=Freelance+Web+Developer)](https://git.io/typing-svg) 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/zakimzf)[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=eixvlqdj5qtm1tphi12vbjwwd&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/zakimzf)
 
 
 
