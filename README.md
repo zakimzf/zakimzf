@@ -1,8 +1,8 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&weight=800&pause=1000&color=020802&width=435&lines=Freelance+Web+Developer)](https://git.io/typing-svg)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal?theme=dark)](https://github.com/zakimzf)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/zakimzf)
 
-
+[![Visits Badge](https://badges.pufler.dev/visits/zakimzf/zakimzf)](https://badges.pufler.dev)
 
 [![](https://img.shields.io/badge/-Gmail-%23181717?style=flat-square&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=zaki.faiz4@gmail.com&su=Hire+Me)
 [![](https://img.shields.io/badge/-Telegram-%23181717?style=flat-square&logo=telegram)](https://telegram/zakimzf)
