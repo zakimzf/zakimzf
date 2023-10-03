@@ -3,7 +3,7 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/zakimzf)
 
 
-[![](https://img.shields.io/badge/-Gmail-%23181717?style=flat-square&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=zaki.faiz4@gmail.com&su=SUBJECT)
+[![](https://img.shields.io/badge/-Gmail-%23181717?style=flat-square&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=zaki.faiz4@gmail.com&su=Hire+Me)
 [![](https://img.shields.io/badge/-Telegram-%23181717?style=flat-square&logo=telegram)](https://telegram/zakimzf)
 [![](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/Faiz4Md)
 [![](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-z-6146a3111/)](https://www.linkedin.com/in/mohammed-z-6146a3111/)
