@@ -15,7 +15,15 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=eixvlqdj5qtm1tphi12vbjwwd&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
-
+<div align="left">
+            <a href="https://paypal.me/zakimzf" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                    align="center"
+                />
+            </a>
+           </div>
+           <br>
 
 
  [![Contra Badge](https://github.com/zakimzf/zakimzf/blob/main/hiremeoncontra-light1.png)](https://on.contra.com/gfjRmg)
